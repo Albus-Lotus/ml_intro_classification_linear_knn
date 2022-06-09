@@ -1,1 +1,3 @@
-# ml_intro_classification_linear_knn
+# Assignment
+
+[hw_classification.ipynb](./hw_classification.ipynb)
